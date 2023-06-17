@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Turhan</h1>
-<h3 align="center">Software Engineering stundent from Firat University</h3>
+<h3 align="center">Software Engineering student from Firat University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperturhann&label=Profile%20views&color=990000&style=flat" alt="alperturhann" /> </p>
 
