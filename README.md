@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taynone&label=Profile%20views&color=0e75b6&style=flat" alt="taynone" /> </p>
 
-- 🌱 I’m currently learning **C# & C++ & Unity**
+- 🌱 I’m currently learning **C#, C++ and Unity**
 
 - 📫 How to reach me **alper34_44@hotmail.com**
 
