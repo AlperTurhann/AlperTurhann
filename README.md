@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperturhann&label=Profile%20views&color=990000&style=flat" alt="alperturhann" /> </p>
 
-- 🌱 I’m currently learning **C#, C++ and Unity**
+- 🌱 I'm currently training as a **Full Stack Developer**
 
 - 📫 How to reach me **alper34_44@hotmail.com**
 
