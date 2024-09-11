@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperturhann&label=Profile%20views&color=990000&style=flat" alt="alperturhann" /> </p>
 
-- 🔭 I’m currently working on [QimiaSchool](https://github.com/AlperTurhann/QimiaSchool)
+<!-- - 🔭 I’m currently working on [QimiaSchool](https://github.com/AlperTurhann/QimiaSchool) -->
 
 - 🌱 I'm currently training as a **Full Stack Developer**
 
