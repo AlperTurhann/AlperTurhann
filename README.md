@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [QimiaSchool](https://github.com/AlperTurhann/QimiaSchool) -->
 
-- 🌱 I'm currently training as a **Full Stack Developer**
+- 🌱 I'm currently working as a **Full Stack Developer**
 
 - 📫 How to reach me **alper34_44@hotmail.com**
 
